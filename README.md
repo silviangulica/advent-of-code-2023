@@ -4,4 +4,4 @@ For this Advent of Code, I will write all the solutions in C# to practice my C# 
 
 Progress so far:
 * Day One
-
+* Day Two
